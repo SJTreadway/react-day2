@@ -11,7 +11,7 @@ var DayTwo = React.createClass({
 	render() {
 		return (
 			<div>
-				<ReactReview />
+				<AsyncData />
 			</div>
 		)	
 	}
